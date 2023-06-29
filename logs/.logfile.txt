@@ -1,0 +1,198 @@
+
+[11/1/2023 -- 13:24]  Info task started
+[11/1/2023 -- 13:24]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 13:24]  Scripts ran on main.js
+[11/1/2023 -- 13:24]  Sass ran on files
+[11/1/2023 -- 13:26]  Info task started
+[11/1/2023 -- 13:26]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 13:26]  Scripts ran on main.js
+[11/1/2023 -- 13:26]  Sass ran on files
+[11/1/2023 -- 13:27]  Scripts ran on main.js
+[11/1/2023 -- 13:27]  Scripts ran on main.js
+[11/1/2023 -- 13:27]  Scripts ran on main.js
+[11/1/2023 -- 14:12]  Info task started
+[11/1/2023 -- 14:12]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:12]  Scripts ran on main.js
+[11/1/2023 -- 14:12]  Sass ran on files
+[11/1/2023 -- 14:17]  Scripts ran on main.js
+[11/1/2023 -- 14:17]  Scripts ran on main.js
+[11/1/2023 -- 14:18]  Scripts ran on main.js
+[11/1/2023 -- 14:21]  Info task started
+[11/1/2023 -- 14:21]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:21]  Scripts ran on main.js
+[11/1/2023 -- 14:21]  Sass ran on files
+[11/1/2023 -- 14:24]  Info task started
+[11/1/2023 -- 14:24]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:24]  Scripts ran on main.js
+[11/1/2023 -- 14:24]  Sass ran on files
+[11/1/2023 -- 14:25]  Info task started
+[11/1/2023 -- 14:25]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:25]  Scripts ran on main.js
+[11/1/2023 -- 14:25]  Sass ran on files
+[11/1/2023 -- 14:28]  Info task started
+[11/1/2023 -- 14:28]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:28]  Scripts ran on main.js
+[11/1/2023 -- 14:28]  Sass ran on files
+[11/1/2023 -- 14:32]  Info task started
+[11/1/2023 -- 14:32]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:32]  Scripts ran on main.js
+[11/1/2023 -- 14:32]  Sass ran on files
+[11/1/2023 -- 14:34]  Info task started
+[11/1/2023 -- 14:34]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:34]  Scripts ran on main.js
+[11/1/2023 -- 14:34]  Sass ran on files
+[11/1/2023 -- 14:35]  Scripts ran on main.js
+[11/1/2023 -- 14:35]  Scripts ran on main.js
+[11/1/2023 -- 14:35]  Scripts ran on main.js
+[11/1/2023 -- 14:35]  Scripts ran on main.js
+[11/1/2023 -- 14:36]  Scripts ran on main.js
+[11/1/2023 -- 14:42]  Info task started
+[11/1/2023 -- 14:42]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:42]  Scripts ran on main.js
+[11/1/2023 -- 14:42]  Sass ran on files
+[11/1/2023 -- 14:45]  Info task started
+[11/1/2023 -- 14:45]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 14:45]  Scripts ran on main.js
+[11/1/2023 -- 14:45]  Sass ran on files
+[11/1/2023 -- 14:45]  Sass ran on files
+[11/1/2023 -- 14:45]  Sass ran on files
+[11/1/2023 -- 14:45]  Sass ran on files
+[11/1/2023 -- 14:45]  Scripts ran on main.js
+[11/1/2023 -- 14:46]  Scripts ran on main.js
+[11/1/2023 -- 14:46]  Scripts ran on main.js
+[11/1/2023 -- 14:46]  Scripts ran on main.js
+[11/1/2023 -- 14:46]  Scripts ran on main.js
+[11/1/2023 -- 15:30]  Info task started
+[11/1/2023 -- 15:30]  Mustache Templates ran on the HTML files
+[11/1/2023 -- 15:30]  Scripts ran on main.js
+[11/1/2023 -- 15:30]  Sass ran on files
+[29/6/2023 -- 12:48]  Info task started
+[29/6/2023 -- 12:48]  Mustache Templates ran on the HTML files
+[29/6/2023 -- 12:48]  Scripts ran on main.js
+[29/6/2023 -- 12:48]  Sass ran on files
+[29/6/2023 -- 12:48]  Info task started
+[29/6/2023 -- 12:48]  Mustache Templates ran on the HTML files
+[29/6/2023 -- 12:48]  Scripts ran on main.js
+[29/6/2023 -- 12:48]  Sass ran on files
+[29/6/2023 -- 12:50]  Scripts ran on main.js
+[29/6/2023 -- 12:50]  Scripts ran on main.js
+[29/6/2023 -- 12:52]  Scripts ran on main.js
+[29/6/2023 -- 12:52]  Info task started
+[29/6/2023 -- 12:52]  Mustache Templates ran on the HTML files
+[29/6/2023 -- 12:52]  Scripts ran on main.js
+[29/6/2023 -- 12:52]  Sass ran on files
+[29/6/2023 -- 12:53]  restarted!
+[29/6/2023 -- 12:53]  restarted!
+[29/6/2023 -- 12:53]  restarted!
+[29/6/2023 -- 12:53]  Scripts ran on main.js
+[29/6/2023 -- 12:53]  Scripts ran on main.js
+[29/6/2023 -- 12:55]  Scripts ran on main.js
+[29/6/2023 -- 12:55]  Scripts ran on main.js
+[29/6/2023 -- 12:56]  Info task started
+[29/6/2023 -- 12:56]  Mustache Templates ran on the HTML files
+[29/6/2023 -- 12:56]  Scripts ran on main.js
+[29/6/2023 -- 12:56]  Sass ran on files
+[29/6/2023 -- 12:58]  Scripts ran on main.js
+[29/6/2023 -- 12:58]  Scripts ran on main.js
+[29/6/2023 -- 12:58]  Scripts ran on main.js
+[29/6/2023 -- 13:0]  Scripts ran on main.js
+[29/6/2023 -- 13:2]  Scripts ran on main.js
+[29/6/2023 -- 13:3]  restarted!
+[29/6/2023 -- 13:5]  restarted!
+[29/6/2023 -- 13:6]  restarted!
+[29/6/2023 -- 13:6]  restarted!
+[29/6/2023 -- 13:8]  restarted!
+[29/6/2023 -- 13:9]  restarted!
+[29/6/2023 -- 13:9]  restarted!
+[29/6/2023 -- 13:9]  Info task started
+[29/6/2023 -- 13:9]  Mustache Templates ran on the HTML files
+[29/6/2023 -- 13:9]  Scripts ran on main.js
+[29/6/2023 -- 13:9]  Sass ran on files
+[29/6/2023 -- 13:10]  restarted!
+[29/6/2023 -- 13:11]  restarted!
+[29/6/2023 -- 13:12]  restarted!
+[29/6/2023 -- 13:14]  Scripts ran on main.js
+[29/6/2023 -- 13:18]  Sass ran on files
+[29/6/2023 -- 13:19]  Scripts ran on main.js
+[29/6/2023 -- 13:19]  Sass ran on files
+[29/6/2023 -- 13:19]  Scripts ran on main.js
+[29/6/2023 -- 13:19]  Scripts ran on main.js
+[29/6/2023 -- 13:19]  Scripts ran on main.js
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:20]  Sass ran on files
+[29/6/2023 -- 13:23]  Sass ran on files
+[29/6/2023 -- 13:24]  Scripts ran on main.js
+[29/6/2023 -- 13:25]  Sass ran on files
+[29/6/2023 -- 13:25]  Sass ran on files
+[29/6/2023 -- 13:25]  Sass ran on files
+[29/6/2023 -- 13:26]  Sass ran on files
+[29/6/2023 -- 13:26]  Sass ran on files
+[29/6/2023 -- 13:26]  Sass ran on files
+[29/6/2023 -- 13:26]  Sass ran on files
+[29/6/2023 -- 13:26]  Sass ran on files
+[29/6/2023 -- 13:27]  Sass ran on files
+[29/6/2023 -- 13:28]  Sass ran on files
+[29/6/2023 -- 13:28]  Sass ran on files
+[29/6/2023 -- 13:45]  Scripts ran on main.js
+[29/6/2023 -- 13:47]  Scripts ran on main.js
+[29/6/2023 -- 13:49]  Scripts ran on main.js
+[29/6/2023 -- 13:49]  Sass ran on files
+[29/6/2023 -- 13:50]  Scripts ran on main.js
+[29/6/2023 -- 13:50]  Sass ran on files
+[29/6/2023 -- 13:50]  Sass ran on files
+[29/6/2023 -- 13:51]  Scripts ran on main.js
+[29/6/2023 -- 13:51]  Sass ran on files
+[29/6/2023 -- 13:51]  Sass ran on files
+[29/6/2023 -- 13:52]  Sass ran on files
+[29/6/2023 -- 13:52]  Sass ran on files
+[29/6/2023 -- 13:52]  Sass ran on files
+[29/6/2023 -- 13:53]  Sass ran on files
+[29/6/2023 -- 13:53]  Sass ran on files
+[29/6/2023 -- 13:54]  Sass ran on files
+[29/6/2023 -- 13:54]  Sass ran on files
+[29/6/2023 -- 13:55]  Sass ran on files
+[29/6/2023 -- 15:54]  Sass ran on files
+[29/6/2023 -- 15:55]  Sass ran on files
+[29/6/2023 -- 15:55]  Sass ran on files
+[29/6/2023 -- 15:55]  Sass ran on files
+[29/6/2023 -- 15:57]  Sass ran on files
+[29/6/2023 -- 15:58]  Sass ran on files
+[29/6/2023 -- 16:0]  Sass ran on files
+[29/6/2023 -- 16:0]  Sass ran on files
+[29/6/2023 -- 16:1]  Scripts ran on main.js
+[29/6/2023 -- 16:1]  Sass ran on files
+[29/6/2023 -- 16:2]  Scripts ran on main.js
+[29/6/2023 -- 16:2]  Sass ran on files
+[29/6/2023 -- 16:2]  Sass ran on files
+[29/6/2023 -- 16:3]  Scripts ran on main.js
+[29/6/2023 -- 16:3]  Sass ran on files
+[29/6/2023 -- 16:4]  Scripts ran on main.js
+[29/6/2023 -- 16:5]  Sass ran on files
+[29/6/2023 -- 16:6]  Sass ran on files
+[29/6/2023 -- 16:8]  Sass ran on files
+[29/6/2023 -- 16:9]  Sass ran on files
+[29/6/2023 -- 16:10]  Sass ran on files
+[29/6/2023 -- 16:13]  Sass ran on files
+[29/6/2023 -- 16:13]  Scripts ran on main.js
+[29/6/2023 -- 16:14]  Sass ran on files
+[29/6/2023 -- 16:14]  Sass ran on files
+[29/6/2023 -- 16:14]  Sass ran on files
+[29/6/2023 -- 16:15]  Sass ran on files
+[29/6/2023 -- 16:15]  Sass ran on files
+[29/6/2023 -- 16:15]  Sass ran on files
+[29/6/2023 -- 16:15]  Sass ran on files
+[29/6/2023 -- 16:15]  Sass ran on files
+[29/6/2023 -- 16:16]  Sass ran on files
+[29/6/2023 -- 16:16]  Sass ran on files
+[29/6/2023 -- 16:17]  Sass ran on files
+[29/6/2023 -- 16:21]  Scripts ran on main.js
+[29/6/2023 -- 16:23]  Scripts ran on main.js
+[29/6/2023 -- 16:24]  Scripts ran on main.js
+[29/6/2023 -- 16:25]  Scripts ran on main.js
